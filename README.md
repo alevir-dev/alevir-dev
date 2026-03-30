@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Fala aí, eu sou o Levi!
 
-<!--
-**alevir-dev/alevir-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor em evolução
+🚀 Focado em Java e lógica de programação
+📚 Estudando todos os dias para entrar na área
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+
+![Levi GitHub stats](https://github-readme-stats.vercel.app/api?username=AlevIr-Coelho-Neto\&show_icons=true\&theme=radical)
+
+---
+
+## 🔥 Linguagens mais usadas
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlevIr-Coelho-Neto\&layout=compact\&theme=radical)
+
+---
+
+## 🐍 Snake (animação)
+
+![Snake animation](https://github.com/AlevIr-Coelho-Neto/AlevIr-Coelho-Neto/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 🚧 Projetos
+
+* 📦 Sistema de Estoque (em evolução)
+
+---
+
+## 📫 Contato
+
+* LinkedIn: (coloca depois)
+* Email: (se quiser)

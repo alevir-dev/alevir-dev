@@ -20,7 +20,8 @@
 
 ## 🐍 Snake (animação)
 
-![Snake animation](https://github.com/AlevIr-Coelho-Neto/AlevIr-Coelho-Neto/blob/output/github-contribution-grid-snake.svg)
+![Snake animation]( <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />)
 
 ---
 

@@ -1,14 +1,22 @@
 <h1 align="center">👋 Fala aí, eu sou o Levi!</h1>
 
-###
+<br>
 
-<h3 align="left">💻 Desenvolvedor especializado em Java, focado na construção de aplicações back-end e soluções baseadas em lógica sólida e código bem estruturado.<br><br>🚀 Comprometido com a evolução constante e com a aplicação de boas práticas para desenvolver sistemas claros, eficientes e escaláveis.<br><br>📈 Acredito que a prática contínua é o caminho para transformar conhecimento em soluções reais.</h3>
+<p align="left">
+💻 Desenvolvedor especializado em Java, focado na construção de aplicações back-end e soluções baseadas em lógica sólida e código bem estruturado.
+</p>
 
-###
+<p align="left">
+🚀 Comprometido com a evolução constante e com a aplicação de boas práticas para desenvolver sistemas claros, eficientes e escaláveis.
+</p>
 
-<h1 align="left"></h1>
+<p align="left">
+📈 Acredito que a prática contínua é o caminho para transformar conhecimento em soluções reais.
+</p>
 
-###
+---
+
+<h3 align="center">🛠️ Tecnologias</h3>
 
 <br>
 
@@ -28,18 +36,22 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="postgresql logo"  />
 </div>
 
-###
+---
 
-<p align="left"></p>
+<h3 align="center">📊 Atividade</h3>
 
-<br><br>
+<br>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=alevir-dev&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=17&date_format=M%20j%5B,%20Y%5D&order=3" height="200" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=alevir-dev&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=17" height="200" />
 </div>
 
-###
+---
+
+<h3 align="center">🐍 Contribuições</h3>
+
+<br>
+
 <div align="center">
-<img src="https://raw.githubusercontent.com/alevir-dev/alevir-dev/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/alevir-dev/alevir-dev/output/snake.svg" />
 </div>
-

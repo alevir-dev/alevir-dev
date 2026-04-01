@@ -9,7 +9,7 @@
 
 <br>
 
-<!-- SOBRE MIM -->
+
 ## 🧠 Sobre mim
 
 <p>
@@ -24,7 +24,7 @@
 
 ---
 
-<!-- TECNOLOGIAS -->
+
 ## 🛠️ Tecnologias
 
 <div align="center">
@@ -35,14 +35,14 @@
 
 ---
 
-<!-- STATS -->
+
 ## 📊 Atividade
 
 <div align="center">
   
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=alevir-dev&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alevir-dev&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=alevir-dev&show_icons=true&theme=tokyonight" />
 
+<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alevir-dev&layout=donut&theme=tokyonight" />
 <br><br>
 
 <img src="https://streak-stats.demolab.com?user=alevir-dev&theme=tokyonight&hide_border=true&border_radius=10" height="180"/>
@@ -51,7 +51,7 @@
 
 ---
 
-<!-- SNAKE -->
+
 ## 🐍 Contribuições
 
 <div align="center">
@@ -62,7 +62,7 @@
 
 ---
 
-<!-- PROJETOS -->
+
 ## 🚧 Projetos em destaque
 
 📌 Sistema de estoque em Java  
@@ -73,14 +73,14 @@
 
 ---
 
-<!-- OBJETIVO -->
+
 ## 🎯 Objetivo
 
 🚀 Conquistar uma oportunidade como desenvolvedor e aplicar na prática tudo que venho construindo diariamente.
 
 ---
 
-<!-- CONTATO -->
+
 ## 📫 Contato
 
 <div align="center">

@@ -12,7 +12,7 @@
 
 ---
 
-## 🛠️ Tecnologias
+# 🛠️ Tecnologias
 
 <div align="center">
 <br>
@@ -36,7 +36,7 @@
 
 ---
 
-## 📊 Atividade
+# 📊 Atividade
 
 <div align="center">
 <br>
@@ -45,7 +45,7 @@
 
 ---
 
-## 🐍 Contribuições
+# 🐍 Contribuições
 
 <div align="center">
 <br>
@@ -54,7 +54,7 @@
 
 ---
 
-## 🚧 Projetos em destaque
+# 🚧 Projetos em destaque
 
 📌 Sistema de estoque em Java  
 📌 Sistema de alunos  
@@ -64,13 +64,13 @@
 
 ---
 
-## 🎯 Objetivo
+# 🎯 Objetivo
 
 🚀 Conquistar uma oportunidade como desenvolvedor e aplicar na prática tudo que venho construindo diariamente.
 
 ---
 
-## 📫 Contato
+# 📫 Contato
 
 <div align="center">
 

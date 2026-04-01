@@ -1,37 +1,55 @@
-# 👋 Fala aí, eu sou o Levi!
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=gruvbox"  />
+</div>
 
-💻 Desenvolvedor em evolução
-🚀 Focado em Java e lógica de programação
-📚 Estudando todos os dias para entrar na área
+###
 
----
+<h1 align="center">👋 Fala aí, eu sou o Levi!</h1>
 
-## 📊 GitHub Stats
+###
 
-![Levi GitHub stats](https://github-readme-stats.vercel.app/api?username=AlevIr-Coelho-Neto\&show_icons=true\&theme=radical)
+<h3 align="left">💻 Desenvolvedor especializado em Java, focado na construção de aplicações back-end e soluções baseadas em lógica sólida e código bem estruturado.<br><br>🚀 Comprometido com a evolução constante e com a aplicação de boas práticas para desenvolver sistemas claros, eficientes e escaláveis.<br><br>📈 Acredito que a prática contínua é o caminho para transformar conhecimento em soluções reais.</h3>
 
----
+###
 
-## 🔥 Linguagens mais usadas
+<h1 align="left"></h1>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlevIr-Coelho-Neto\&layout=compact\&theme=radical)
+###
 
----
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="60" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="60" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="60" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="postgresql logo"  />
+</div>
 
-## 🐍 Snake (animação)
+###
 
-![Snake animation]( <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
-    alt="example" />)
+<p align="left"></p>
 
----
+###
 
-## 🚧 Projetos
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=alevir-dev&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=17&date_format=M%20j%5B,%20Y%5D&order=3" height="150" alt="streak graph"  />
+</div>
 
-* 📦 Sistema de Estoque (em evolução)
+###
 
----
+<img src="https://raw.githubusercontent.com/alevir-dev/alevir-dev/output/snake.svg" alt="Snake animation" />
 
-## 📫 Contato
+###
 
-* LinkedIn: (coloca depois)
-* Email: (se quiser)
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=gruvbox"  />
+</div>
+
+###

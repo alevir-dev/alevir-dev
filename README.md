@@ -1,60 +1,69 @@
-<h1 align="center">👋 Fala aí, eu sou o Levi!</h1>
+<!-- HEADER ANIMADO -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&theme=tokyonight"/>
+
+<h1 align="center">
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=👋+Fala+aí%2C+eu+sou+o+Levi!;Desenvolvedor+Back-end+Java" />
+</a>
+</h1>
 
 <br>
 
- # 🧠 Sobre mim
+<!-- SOBRE MIM -->
+## 🧠 Sobre mim
 
+<p>
+💻 Desenvolvedor com formação em Análise e Desenvolvimento de Sistemas, focado na construção de aplicações back-end com Java.<br><br>
 
-### 💻 Desenvolvedor com formação em Análise e Desenvolvimento de Sistemas, com foco em aplicações back-end utilizando Java.  
-### 🚀 Experiência na construção de projetos práticos, com ênfase em organização de código, lógica estruturada e boas práticas de desenvolvimento.  
-### 🧠 Perfil disciplinado e orientado à resolução de problemas, com aprendizado contínuo baseado em prática.  
-### 📈 Comprometido em evoluir tecnicamente e contribuir com soluções eficientes em ambientes profissionais.
+🚀 Experiência prática em desenvolvimento de sistemas, com forte atenção à organização de código, lógica estruturada e boas práticas.<br><br>
+
+🧠 Perfil disciplinado, orientado à resolução de problemas e evolução contínua através da prática constante.<br><br>
+
+📈 Focado em crescer tecnicamente e contribuir com soluções eficientes em ambientes profissionais.
+</p>
 
 ---
 
-# 🛠️ Tecnologias
+<!-- TECNOLOGIAS -->
+## 🛠️ Tecnologias
 
 <div align="center">
-<br>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" />
-<img width="16" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="60" />
-<img width="16" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" />
-<img width="16" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="60" />
-<img width="16" />
-<img src="https://cdn.simpleicons.org/git/F05032" height="60" />
-<img width="16" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" />
-<img width="16" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" />
+<img src="https://skillicons.dev/icons?i=java,spring,docker,aws,git,mysql,postgresql" />
 
-<br>
 </div>
 
 ---
 
-# 📊 Atividade
+<!-- STATS -->
+## 📊 Atividade
 
 <div align="center">
-<br>
-<img src="https://streak-stats.demolab.com?user=alevir-dev&theme=dark&border_radius=10" height="240" />
+  
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=alevir-dev&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alevir-dev&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=alevir-dev&theme=tokyonight&hide_border=true&border_radius=10" height="180"/>
+
 </div>
 
 ---
 
-# 🐍 Contribuições
+<!-- SNAKE -->
+## 🐍 Contribuições
 
 <div align="center">
-<br>
+  
 <img src="https://raw.githubusercontent.com/alevir-dev/alevir-dev/output/snake.svg" />
+
 </div>
 
 ---
 
-# 🚧 Projetos em destaque
+<!-- PROJETOS -->
+## 🚧 Projetos em destaque
 
 📌 Sistema de estoque em Java  
 📌 Sistema de alunos  
@@ -64,13 +73,15 @@
 
 ---
 
-# 🎯 Objetivo
+<!-- OBJETIVO -->
+## 🎯 Objetivo
 
 🚀 Conquistar uma oportunidade como desenvolvedor e aplicar na prática tudo que venho construindo diariamente.
 
 ---
 
-# 📫 Contato
+<!-- CONTATO -->
+## 📫 Contato
 
 <div align="center">
 
@@ -82,6 +93,10 @@
 
 ---
 
+<!-- FRASE FINAL -->
 <p align="center">
 🔥 <i>Consistência transforma esforço em resultado.</i>
 </p>
+
+<!-- FOOTER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&theme=tokyonight"/>

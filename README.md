@@ -40,9 +40,9 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=alevir-dev&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=alevir-dev&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img src="https://streak-stats.demolab.com?user=alevir-dev&theme=tokyonight&hide_border=true&border_radius=10" height="170"/>
+<img src="https://streak-stats.demolab.com?user=alevir-dev&theme=tokyonight&hide_border=true&border_radius=10" height="160"/>
 <br><br>
 
 <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alevir-dev&layout=donut&theme=tokyonight&hide_border=true" />

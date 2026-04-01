@@ -10,6 +10,8 @@
 
 ###
 
+<br>
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
   <img width="12" />
@@ -30,20 +32,14 @@
 
 <p align="left"></p>
 
-###
+<br><br>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=alevir-dev&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=17&date_format=M%20j%5B,%20Y%5D&order=3" height="200" alt="streak graph"  />
 </div>
 
 ###
-
+<div align="center">
 <img src="https://raw.githubusercontent.com/alevir-dev/alevir-dev/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=gruvbox"  />
 </div>
 
-###

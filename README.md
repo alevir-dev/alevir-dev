@@ -2,12 +2,13 @@
 
 <br>
 
- <h1>🧠 Sobre mim</b></h1>
+ # 🧠 Sobre mim
 
-💻 Desenvolvedor com formação em Análise e Desenvolvimento de Sistemas, com foco em aplicações back-end utilizando Java.  
-🚀 Experiência na construção de projetos práticos, com ênfase em organização de código, lógica estruturada e boas práticas de desenvolvimento.  
-🧠 Perfil disciplinado e orientado à resolução de problemas, com aprendizado contínuo baseado em prática.  
-📈 Comprometido em evoluir tecnicamente e contribuir com soluções eficientes em ambientes profissionais.
+
+### 💻 Desenvolvedor com formação em Análise e Desenvolvimento de Sistemas, com foco em aplicações back-end utilizando Java.  
+### 🚀 Experiência na construção de projetos práticos, com ênfase em organização de código, lógica estruturada e boas práticas de desenvolvimento.  
+### 🧠 Perfil disciplinado e orientado à resolução de problemas, com aprendizado contínuo baseado em prática.  
+### 📈 Comprometido em evoluir tecnicamente e contribuir com soluções eficientes em ambientes profissionais.
 
 ---
 

@@ -2,7 +2,7 @@
 
 <br>
 
- <h2>🧠 Sobre mim</h2>
+ <h1>🧠 Sobre mim</b></h1>
 
 💻 Desenvolvedor com formação em Análise e Desenvolvimento de Sistemas, com foco em aplicações back-end utilizando Java.  
 🚀 Experiência na construção de projetos práticos, com ênfase em organização de código, lógica estruturada e boas práticas de desenvolvimento.  

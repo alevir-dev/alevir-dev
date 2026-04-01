@@ -2,11 +2,10 @@
 
 ## 🧠 Sobre mim
 
-💻 Desenvolvedor focado em criação de sistemas organizados, eficientes e bem estruturados utilizando Java.
-
-🚀 Busco sempre evoluir através da prática, criando projetos que simulam cenários reais e fortalecem minha lógica de programação.
-
-📈 Tenho interesse em desenvolvimento back-end, APIs e boas práticas que garantem código limpo, escalável e de fácil manutenção.
+💻 Desenvolvedor com formação em Análise e Desenvolvimento de Sistemas, com foco em aplicações back-end utilizando Java.  
+🚀 Experiência na construção de projetos práticos, com ênfase em organização de código, lógica estruturada e boas práticas de desenvolvimento.  
+🧠 Perfil disciplinado e orientado à resolução de problemas, com aprendizado contínuo baseado em prática.  
+📈 Comprometido em evoluir tecnicamente e contribuir com soluções eficientes em ambientes profissionais.
 
 ---
 

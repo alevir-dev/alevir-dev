@@ -86,7 +86,7 @@
 
 <div align="center">
 
-<a href="www.linkedin.com/in/alevir-coelho-neto"/>
+<a href="www.linkedin.com/in/alevir-coelho-neto/"/>
 <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
